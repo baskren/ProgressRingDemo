@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "ProgressRingDemo",
+  "display": "standalone",
+  "name": "ProgressRingDemo",
+  "short_name": "ProgressRingDemo",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}

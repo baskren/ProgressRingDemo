@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"ProgressRingDemo.Windows (Unpackaged)": {
+			"commandName": "Project"
+		},
+		"ProgressRingDemo.Windows (Package)": {
+			"commandName": "MsixPackage"
+		}
+	}
+}
